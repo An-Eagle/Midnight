@@ -1,3 +1,5 @@
+THIS HAS NOT BEEN UPDATED SINCE GNOME 45
+
 # Midnight GTK Theme
 Gtk2, Gtk3, Gtk4 and Gnome Shell theme based on [Midnight-Theme](https://github.com/i-mint/midnight) </br>
 License : [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)</br></br>
